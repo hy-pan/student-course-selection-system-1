@@ -20,5 +20,11 @@
 
 图形界面:
 ---
+登陆界面
+
 ![image](https://github.com/hy-pan/student-course-selection-system-1/blob/master/img/1.png)
+
+主界面
+
+![image](https://github.com/hy-pan/student-course-selection-system-1/blob/master/img/2.png)
 
