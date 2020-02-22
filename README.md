@@ -18,3 +18,7 @@
 
 5. 系统提供丰富的提醒功能，避免错误输入
 
+图形界面:
+---
+![image](https://github.com/hy-pan/student-course-selection-system-1/blob/master/img/1.png)
+
